@@ -14,7 +14,6 @@ Driven by a strong interest in cybersecurity and reinforced by practical experie
 | Basic Malware Reverse Engineering         | <a href="https://github.com/Jesko5/Malicious-File-Identification/blob/main/README.md">Malicious File Identification</a>|
 
 ## Tools
-I have practical experience with a broad range of cybersecurity tools, including:
 
 ### Network Scanning & Vulnerability Assessment
 
@@ -44,7 +43,6 @@ I have practical experience with a broad range of cybersecurity tools, including
     <img src="https://img.shields.io/badge/-XL--Toolkit-2C2C2C?&style=for-the-badge&logoColor=white" />
 </div>
 <br>
-These tools have been essential in my projects for identifying vulnerabilities, analyzing network traffic, and conducting penetration tests.
 
 ## Projects
 - Malicious File Identification

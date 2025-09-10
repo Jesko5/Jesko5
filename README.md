@@ -46,3 +46,4 @@ Driven by a strong interest in cybersecurity and reinforced by practical experie
 
 ## Projects
 - Malicious File Identification
+- Database Design and Development

@@ -9,8 +9,8 @@ Driven by a strong interest in cybersecurity and reinforced by practical experie
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analyzing Network Logs for Threat Detection         | <a href="https://github.com/Jesko5/Malicious-File-Identification/blob/main/README.md">Enterprise-Wide Identification and Analysis</a>|
-| C2 Activity Detection via Behavioral Analysis         | <a href="https://github.com/Jesko5/Malicious-File-Identification/blob/main/README.md">Enterprise-Wide Identification and Analysis</a>|
+| Analyzing Network Logs for Threat Detection         | <a href="https://github.com/Jesko5/Enterprise-Wide_Identification-and-Analysis">Enterprise-Wide Identification and Analysis</a>|
+| C2 Activity Detection via Behavioral Analysis         | <a href="https://github.com/Jesko5/Enterprise-Wide_Identification-and-Analysis">Enterprise-Wide Identification and Analysis</a>|
 | SIEM Deployment and Threat Detection | <a href="https://github.com/Jesko5/Malicious-File-Identification/blob/main/README.md">Malicious File Identification</a>|
 | Traffic Analysis with Wireshark           | <a href="https://github.com/Jesko5/Malicious-File-Identification/blob/main/README.md">Malicious File Identification</a>|
 | Malware Reverse Engineering         | <a href="https://github.com/Jesko5/Malicious-File-Identification/blob/main/README.md">Malicious File Identification</a>|

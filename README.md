@@ -1,5 +1,5 @@
 # Hello, I'm Hakim
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hakim-z-6886b12a9/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a cybersecurity undergraduate with solid hands-on experience in vulnerability assessment, penetration testing, and secure system design. Through both academic and technical projects, I have applied industry best practices in network and application security, utilizing different tools to identify and exploit vulnerabilities in controlled environments. My passion lies in building resilient systems and proactively addressing security threats to safeguard critical infrastructure and sensitive data.
 
